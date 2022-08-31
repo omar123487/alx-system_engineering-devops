@@ -20,4 +20,6 @@
 
 11-lists - a script that . .. /boot changes to the respective directories.
 
-12-file_type - type command
+12-file_type - type command.
+
+13-symbolic_link -a script to create a symbolic link.
