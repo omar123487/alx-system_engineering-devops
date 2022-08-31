@@ -1,1 +1,1 @@
-This repository is of for creating bash scripts.
+This repository is for creating bash scripts.
