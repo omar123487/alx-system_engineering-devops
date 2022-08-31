@@ -33,3 +33,5 @@
 17-102-tree -a script that creates directories in current directories.
 
 18-103-commas - a script that  list files and directories separated by commas.
+
+19-school.mgc - a script to create a magic file.
