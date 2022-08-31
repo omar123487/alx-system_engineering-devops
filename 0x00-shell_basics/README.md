@@ -27,3 +27,5 @@
 14-copy_html - a script to copy html files with modifications.
 
 15-100-lets_move - a script that moves all files beginning with uppercase letter.
+
+16-101-clean_emacs - a script that removes all files that end with ~.
