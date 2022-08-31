@@ -8,3 +8,4 @@
 8-firstdelete - a script that deletes a file.
 9-firsdirdeletion - a script that deletes a directory.
 10-back - a script that changes the working directory to the previous one.
+11-lists -a script that . .. /boot changes to the respective directories.
