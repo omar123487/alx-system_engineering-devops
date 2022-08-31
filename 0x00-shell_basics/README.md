@@ -31,3 +31,5 @@
 16-101-clean_emacs - a script that removes all files that end with ~.
 
 17-102-tree -a script that creates directories in current directories.
+
+18-103-commas - a script that  list files and directories separated by commas.
