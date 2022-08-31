@@ -23,3 +23,5 @@
 12-file_type - type command.
 
 13-symbolic_link -a script to create a symbolic link.
+
+14-copy_html - a script to copy html files with modifications.
