@@ -29,3 +29,5 @@
 14-100-change_owner_and_group - a script that changes the owner to vincent and group owner to staff.
 
 15-101-symbolic_link_permissions - a script that changes the owner and group owner of _hello to vincent and staff respectively.
+
+17-103-Star_Wars - a script that plays the Star Wars IV episode on the terminal.
