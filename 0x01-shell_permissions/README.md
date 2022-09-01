@@ -21,3 +21,5 @@
 10-mirror_permissions - a script that sets the mode of the file hello the same as the file olleh.
 
 11-11-directories_permissions - a script that adds execute permissions to all subdirectories of the current directory for the owner, group[ owner and the world.
+
+12-12-directories_permissions - a script that creates a directory called my_dir with permissions 751 in the working directory.
