@@ -15,3 +15,5 @@
 7-everybody - a script that adds permission to the owner, the group owner and the other users to the file hello.
 
 8-8-James_Bond - a script that sets the permissions of the owner and group to no permissions and world to all the permissions.
+
+9-John_Doe  -a script that sets the mode of the file hello to -rwxr-x-wx.
