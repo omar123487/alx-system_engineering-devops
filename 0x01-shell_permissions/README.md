@@ -25,3 +25,5 @@
 12-12-directories_permissions - a script that creates a directory called my_dir with permissions 751 in the working directory.
 
 13-13-change_group - a script that changes the group owner from school for the file hello.
+
+14-100-change_owner_and_group - a script that changes the owner to vincent and group owner to staff.
