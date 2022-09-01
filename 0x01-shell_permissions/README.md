@@ -12,13 +12,13 @@
 
 6-6-multiple_permissions - a script that adds execute permission to the owner and group owner, and read permissions to other users, to the file hello.
 
-7-everybody - a script that adds permission to the owner, the group owner and the other users to the file hello.
+7-7-everybody - a script that adds permission to the owner, the group owner and the other users to the file hello.
 
 8-8-James_Bond - a script that sets the permissions of the owner and group to no permissions and world to all the permissions.
 
-9-John_Doe  -a script that sets the mode of the file hello to -rwxr-x-wx.
+9-9-John_Doe  -a script that sets the mode of the file hello to -rwxr-x-wx.
 
-10-mirror_permissions - a script that sets the mode of the file hello the same as the file olleh.
+10-10-mirror_permissions - a script that sets the mode of the file hello the same as the file olleh.
 
 11-11-directories_permissions - a script that adds execute permissions to all subdirectories of the current directory for the owner, group[ owner and the world.
 
