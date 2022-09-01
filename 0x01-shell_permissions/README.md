@@ -17,3 +17,5 @@
 8-8-James_Bond - a script that sets the permissions of the owner and group to no permissions and world to all the permissions.
 
 9-John_Doe  -a script that sets the mode of the file hello to -rwxr-x-wx.
+
+10-mirror_permissions - a script that sets the mode of the file hello the same as the file olleh.
