@@ -34,3 +34,6 @@
 
 17-17-hidethisword - a script to display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
+18-18-letteronly - a script to display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+19-
