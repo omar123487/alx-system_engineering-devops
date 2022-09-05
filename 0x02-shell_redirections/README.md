@@ -6,4 +6,6 @@
 
 3-3-twofiles - a script that displays the content of two files.
 
-4-4-lastlines- a script that prints the last ten lines of /etc/passwd.
+4-4-lastlines - a script that prints the last ten lines of /etc/passwd.
+
+5-5-firstlines - a script that prints the first ten lines.
