@@ -40,6 +40,6 @@
 
 20-20-hiago - a script that removes all letters c and C from input.
 
-21-21-reverse - a script that prints a word in reverse.
+21-21-reverse - a script that prints input in reverse.
 
-22-
+22-22-users_and_homes - a script that displays all users and their home directories, sorted by users.
