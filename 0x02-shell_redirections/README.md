@@ -39,3 +39,7 @@
 19-19-AZ - a script to Replace all characters A and c from input to Z and e respectively.
 
 20-20-hiago - a script that removes all letters c and C from input.
+
+21-21-reverse - a script that prints a word in reverse.
+
+22-
