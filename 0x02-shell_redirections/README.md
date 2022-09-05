@@ -26,3 +26,5 @@
 
 13-13-unique - a script that takes a list of words as input and prints only words that appear exactly once.
 
+14-14-findthatword - a script to display lines containing the pattern “root” from the file /etc/passwd.
+
