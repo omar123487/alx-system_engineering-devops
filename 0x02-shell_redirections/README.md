@@ -9,3 +9,5 @@
 4-4-lastlines - a script that prints the last ten lines of /etc/passwd.
 
 5-5-firstlines - a script that prints the first ten lines.
+
+6-6-third_line - a script that displays the third line of the file.
