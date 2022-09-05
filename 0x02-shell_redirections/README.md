@@ -15,3 +15,6 @@
 7-7-file - a script that prints echo "Best School" | cat > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
 
 8-8-cwd_content - a script that writes into the file ls_cwd_content the result of the command ls -la.
+
+9-9-duplicate_last_line - a script that duplicates the last line of the file iacta. The file iacta will be in the working directory.
+
