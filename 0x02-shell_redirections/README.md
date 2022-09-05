@@ -11,3 +11,5 @@
 5-5-firstlines - a script that prints the first ten lines.
 
 6-6-third_line - a script that displays the third line of the file.
+
+7-7-file - a script that prints echo "Best School" | cat > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
