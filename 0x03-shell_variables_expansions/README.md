@@ -10,3 +10,4 @@ Shell, init files, variables and expansions
 
 2-2-path - create a script that Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 
+3-3-paths - Create a script that counts the number of directories in the PATH.
