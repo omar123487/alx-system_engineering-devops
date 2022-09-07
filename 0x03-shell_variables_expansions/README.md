@@ -41,3 +41,6 @@ Shell, init files, variables and expansions
 		   Your script file should contain maximum 64 characters
 
 13-13-print_float - Write a script that prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable NUM.
+
+14-100-decimal_to_hexadecimal - Write a script that converts a number from base 10 to base 16. Decimal to Hexadecimal.
+
